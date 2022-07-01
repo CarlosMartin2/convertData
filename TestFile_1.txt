@@ -1,0 +1,72 @@
+                                                       DORAXI EXPERT OPTIONS SERV UPX                                                       
+                                                   AGENTING TRANSACTION ACTIVITY                                       PAGE        1
+                                                       DECOMPRESSED TXT/PRINT     (H)            PROC DATE 01/01/06    TIME 09.45.22
+  AGENTING NO :  900000000009                                                                                   AGENT CODE 00000    
+  ADDRESS     :  4678 ROVER STREET                                                                           PHONE 0056768978       
+                 DIAMOND CLOSE                                                                                FAX                    
+                 RICHFIELD                                                                                                            
+                 PLOT NO. 36 AIRPORT                                                                                                
+  EMAIL :GHUYT-YH4@VAPOR.COM                                                                                                        
+  CHAIN ID    :  22222222                AGENTING TRANSACTIONS SETTLED ON 01/01/2006                               MBX7789_1         
+------------------------------------------------------------------------------------------------------------------------------------
+DTOF   TRXN    VAULT    CHECKING     CODE NUMBER   TYPE             MSQ REF NBR            VERI     TRXN       FLAT  REFERENCE         
+TRN    TIME     ID       NUMBER                                                            CODE     AMT        TYPE   ID            
+------------------------------------------------------------------------------------------------------------------------------------
+01/01 18:11:06 55000015 000000028322 651223XXXXXXX LEADS           85267412534589654712354 1VV701       778.38 OUIN                
+01/01 19:19:24 55000015 000000028324 639743XXXXXXX LEADS           85267412566689654712354 VXVZ9Y       990.50 OUIN                
+01/01 06:34:09 55000015 000000028327 646095XXXXXXX LEADS           85267412587689654712354 RFOBTB       456.00 OUIN                
+01/01 07:39:48 55000015 000000028330 627367XXXXXXX LEADS           85267412598989654712354 5CN898         3.32 OUIN                
+01/01 08:58:11 55000015 000000028331 600344XXXXXXX LEADS           85267412509089654712354 35932C         7.40 OUIN                
+01/01 10:19:28 55000015 000000028333 641322XXXXXXX LEADS           85267412599089654712354 J28308       502.00 OUIN                
+01/01 11:44:55 55000015 000000028334 606583XXXXXXX LEADS           85267412576389654712354 K1E581       220.00 OUIN                
+01/01 12:48:36 55000015 000000028335 630545XXXXXXX LEADS           85267412565489654712354 M04974        43.00 OUIN                
+01/01 14:12:28 55000015 000000028337 671473XXXXXXX LEADS           85267412589889654712354 N25828       402.00 UHHG                
+01/01 14:45:51 55000015 000000028338 685451XXXXXXX LEADS           85267412599089654712354 N15062       889.00 UHHG                
+01/01 15:03:47 55000015 000000028339 658588XXXXXXX LEADS           85267412533289654712354 M59197       553.30 UHHG                
+------------------------------------------------------------------------------------------------------------------------------------
+  GRAND TOTAL OF AGT TRANSACTIONS :                          00011                                                                  
+  GRAND TOTAL VALUE OF AGT TRANSACTIONS :                  4844.60                                                                 
+  MONTHLY VALUE OF COMMISSION + IXT :                         0.00                                                                  
+  GRAND TOTAL VALUE OF FEE TRANSACTIONS :                     0.00                                                                  
+  VALUE OF CHARGEBACK TRANSACTIONS :                          0.00                                                                  
+  VALUE OF SUSPENDED TRANSACTIONS :                           0.00                                                                  
+  GRAND TOTAL OF CASH (VOID):                                 0.00                                                                  
+  GRAND TOTAL OF REBATE :                                     0.00                                                                  
+------------------------------------------------------------------------------------------------------------------------------------
+ END OF REPORT                                                                                                                      
+                                                       DORAXI EXPERT OPTIONS SERV UPX                                                       
+                                                   AGENTING TRANSACTION ACTIVITY                                       PAGE        2
+                                                       DECOMPRESSED TXT/PRINT     (H)            PROC DATE 01/01/06    TIME 09.58.22
+  MERCHANT NO :  900000000008                                                                                   AGENT CODE 00000    
+  ADDRESS     :  6666 MERCHANT DRIVE                                                                           PHONE 0057825179       
+                 EMERALD CLOSE                                                                                FAX                    
+                 SPRINGFIELD                                                                                                            
+                 Virginia                                                                                           
+  EMAIL :VENCAPITALS@VENYL.COM                                                                                                        
+  CHAIN ID    :  22222228                AGENTING TRANSACTIONS SETTLED ON 01/01/2006                               MBX7789_1         
+------------------------------------------------------------------------------------------------------------------------------------
+DTOF   TRXN    VAULT    CHECKING     CODE NUMBER   TYPE             MSQ REF NBR            VERI     TRXN       FLAT  REFERENCE         
+TRN    TIME     ID       NUMBER                                                            CODE     AMT        TYPE   ID            
+------------------------------------------------------------------------------------------------------------------------------------
+01/01 14:21:06 55000016 000000028202 781223XXXXXXX LEADS           90267412534589654712354 088881       552.38 UHHG                
+01/01 12:19:24 55000016 000000028203 999743XXXXXXX LEADS           90267412566689654712354 LC9HJY       290.50 UHHG                
+01/01 06:34:09 55000016 000000028203 986095XXXXXXX LEADS           90697412587689654712354 QFMOTB       231.00 OUIN                
+01/01 05:39:48 55000016 000000028204 567367XXXXXXX LEADS           90267412598989654712354 145198         5.32 OUIN                
+01/01 08:38:11 55000016 000000028205 660344XXXXXXX LEADS           90267412509089654712354 04IU2C         4.40 OUIN                
+01/01 10:29:28 55000016 000000028206 781322XXXXXXX LEADS           90267412599089654712354 42BQ08       231.00 UHHG                
+01/01 11:14:55 55000016 000000028207 586583XXXXXXX LEADS           90267412576389654712354 216681       113.00 OUIN                
+01/01 11:28:36 55000016 000000028208 880545XXXXXXX LEADS           90267412565489654712354 40YG74        33.00 OUIN                
+01/01 16:42:28 55000016 000000028209 991473XXXXXXX LEADS           90267412589889654712354 4RHJ28       980.00 UHHG                
+01/01 18:25:51 55000016 000000028220 005451XXXXXXX LEADS           90267412599089654712354 MA4062       313.00 OUIN                
+01/01 09:13:47 55000016 000000028211 678588XXXXXXX LEADS           90267412533289654712354 JK9197       232.30 UHHG                
+------------------------------------------------------------------------------------------------------------------------------------
+  GRAND TOTAL OF AGT TRANSACTIONS :                          00011                                                                  
+  GRAND TOTAL VALUE OF AGT TRANSACTIONS :                  2723.91                                                               
+  MONTHLY VALUE OF COMMISSION + IXT :                         0.00                                                                  
+  GRAND TOTAL VALUE OF FEE TRANSACTIONS :                     0.00                                                                  
+  VALUE OF CHARGEBACK TRANSACTIONS :                          0.00                                                                  
+  VALUE OF SUSPENDED TRANSACTIONS :                           0.00                                                                  
+  GRAND TOTAL OF CASH (VOID):                                 0.00                                                                  
+  GRAND TOTAL OF REBATE :                                     0.00                                                                  
+------------------------------------------------------------------------------------------------------------------------------------
+ END OF REPORT                                                                                                                      
